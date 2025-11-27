@@ -39,5 +39,3 @@ This app uses:
 **Gemini 2.5-Flash-Preview-09-2025**  
 for all OCR and extraction steps (metadata + monthly + totals).
 
-## 📁 Project Structure
-
